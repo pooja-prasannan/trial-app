@@ -9,8 +9,8 @@ function App() {
         <p className="allign">
           <br></br>
           <p>Tarang 2.0 is here with an all new avatar.Here's your chance to set up and be a network ambassador.</p>
-          <p>Report and resolve network issue that you, your family or friends know about.</p>
-          <p>Let's be the change, to drive the change. Join in out commitments towards experience for all.</p>
+          <p>Report and resolve network issues that you, your family or friends know about.</p>
+          <p>Let's be the change, to drive the change. Join us in our commitment towards creating a better network experience for all.</p>
           <p>Click here: <a href="https://tarang.vodafoneidea.com/" target="_blank" >https://tarang.vodafoneidea.com/</a></p>
           <p>Weekly once please raise one feedback</p>
 
