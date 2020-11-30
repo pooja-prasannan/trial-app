@@ -1,6 +1,10 @@
 {
   "name": "linkapp",
   "version": "0.1.0",
+  "engines": {
+    "npm": "6.14.7",
+    "node": "12.18.0"
+  },
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.6",
