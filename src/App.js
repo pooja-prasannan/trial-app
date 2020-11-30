@@ -7,7 +7,9 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Hi welcome all!
+          Welcome to TARANG!
+          <br></br>
+          Click here: <a href="https://www.vodafoneidea.com/" target="_blank" >https://www.vodafoneidea.com/</a>
         </p>
 
       </header>
