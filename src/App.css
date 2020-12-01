@@ -31,8 +31,13 @@
 .allign {
   text-align: left;
   color:black;
-  font-size:20;
-  font-family:verdana
+  font: 20px;;
+  font-family: 'ViMedium',"Helvetica","Arial",sans-serif;
+  border-style: ridge;
+  padding-top: 30px;
+  padding-right: 30px;
+  padding-bottom: 50px;
+  padding-left: 80px;
 }
 
 @keyframes App-logo-spin {
